@@ -1,2 +1,2 @@
 # algorithms
-sorting and searching algorithm using c++
+Sorting and Searching algorithms using C++
